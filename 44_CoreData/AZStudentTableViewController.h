@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  AZStudentTableViewController.h
 //  44_CoreData
 //
 //  Created by alexg on 01.08.15.
@@ -8,13 +8,9 @@
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
+#import "AZParentDataViewController.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
-
+@interface AZStudentTableViewController : AZParentDataViewController
 
 
 @end
-

@@ -7,14 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		653169941B97BDB00018E6D4 /* courses1.png in Resources */ = {isa = PBXBuildFile; fileRef = 653169901B97BDAF0018E6D4 /* courses1.png */; };
+		653169951B97BDB00018E6D4 /* courses2.png in Resources */ = {isa = PBXBuildFile; fileRef = 653169911B97BDB00018E6D4 /* courses2.png */; };
+		653169961B97BDB00018E6D4 /* user-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 653169921B97BDB00018E6D4 /* user-1.png */; };
+		653169971B97BDB00018E6D4 /* user-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 653169931B97BDB00018E6D4 /* user-2.png */; };
+		6531699A1B97C3760018E6D4 /* AZTeachersController.m in Sources */ = {isa = PBXBuildFile; fileRef = 653169991B97C3760018E6D4 /* AZTeachersController.m */; };
+		9A178CAA1B9BB0D3003B4BE9 /* AZParentDataViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A178CA91B9BB0D3003B4BE9 /* AZParentDataViewController.m */; };
+		9A3C03E61B74F9AA008DE1E6 /* AZStudentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A3C03E51B74F9AA008DE1E6 /* AZStudentsViewController.m */; };
+		9AA7DC261B9A283F0027BB2E /* AZTeachDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA7DC251B9A283F0027BB2E /* AZTeachDetailViewController.m */; };
+		9AA7DC291B9A30AE0027BB2E /* AZTeacherViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AA7DC281B9A30AE0027BB2E /* AZTeacherViewCell.m */; };
+		9AB038611B6E386B00CC7651 /* age.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB038581B6E386B00CC7651 /* age.png */; };
+		9AB038621B6E386B00CC7651 /* globe_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB038591B6E386B00CC7651 /* globe_yellow.png */; };
+		9AB038631B6E386B00CC7651 /* lock_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB0385A1B6E386B00CC7651 /* lock_yellow.png */; };
+		9AB038641B6E386B00CC7651 /* login.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB0385B1B6E386B00CC7651 /* login.png */; };
+		9AB038651B6E386B00CC7651 /* mail_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB0385C1B6E386B00CC7651 /* mail_yellow.png */; };
+		9AB038661B6E386B00CC7651 /* secName.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB0385D1B6E386B00CC7651 /* secName.png */; };
+		9AB038671B6E386B00CC7651 /* telephone_yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB0385E1B6E386B00CC7651 /* telephone_yellow.png */; };
+		9AB038681B6E386B00CC7651 /* User.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB0385F1B6E386B00CC7651 /* User.png */; };
+		9AB038691B6E386B00CC7651 /* yellow_lock.png in Resources */ = {isa = PBXBuildFile; fileRef = 9AB038601B6E386B00CC7651 /* yellow_lock.png */; };
 		9AC2A9E91B6CDD89009E626F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2A9E81B6CDD89009E626F /* main.m */; };
 		9AC2A9EC1B6CDD89009E626F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2A9EB1B6CDD89009E626F /* AppDelegate.m */; };
 		9AC2A9EF1B6CDD89009E626F /* _4_CoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2A9ED1B6CDD89009E626F /* _4_CoreData.xcdatamodeld */; };
-		9AC2A9F21B6CDD89009E626F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2A9F11B6CDD89009E626F /* ViewController.m */; };
 		9AC2A9F51B6CDD89009E626F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC2A9F31B6CDD89009E626F /* Main.storyboard */; };
 		9AC2A9F71B6CDD89009E626F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AC2A9F61B6CDD89009E626F /* Images.xcassets */; };
 		9AC2A9FA1B6CDD89009E626F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9AC2A9F81B6CDD89009E626F /* LaunchScreen.xib */; };
 		9AC2AA061B6CDD89009E626F /* _4_CoreDataTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2AA051B6CDD89009E626F /* _4_CoreDataTests.m */; };
+		9AC2AA111B6CDEB7009E626F /* AZDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2AA101B6CDEB7009E626F /* AZDataManager.m */; };
+		9AC2AA151B6CEBFB009E626F /* AZStudentTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2AA141B6CEBFB009E626F /* AZStudentTableViewController.m */; };
+		9AC2AA561B6D393B009E626F /* AZDetailTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2AA551B6D393B009E626F /* AZDetailTableViewController.m */; };
+		9AC2AA591B6D8AC3009E626F /* AZLeftView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2AA581B6D8AC3009E626F /* AZLeftView.m */; };
+		9AC2AA721B6D9090009E626F /* AZTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AC2AA711B6D9090009E626F /* AZTableViewCell.m */; };
+		9AE9F2591B739B8A005D004C /* AZTeacherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AE9F2581B739B8A005D004C /* AZTeacherViewController.m */; };
+		9AEB4CB11B7235F600CDA7C6 /* AZCoursesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB4CB01B7235F600CDA7C6 /* AZCoursesViewController.m */; };
+		9AEB4CB41B723B3F00CDA7C6 /* AZStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB4CB31B723B3F00CDA7C6 /* AZStudent.m */; };
+		9AEB4CB71B723B4000CDA7C6 /* AZTeacher.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB4CB61B723B4000CDA7C6 /* AZTeacher.m */; };
+		9AEB4CBA1B723B4000CDA7C6 /* AZCourses.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB4CB91B723B4000CDA7C6 /* AZCourses.m */; };
+		9AEB4CBD1B72507100CDA7C6 /* AZInfoCourseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB4CBC1B72507100CDA7C6 /* AZInfoCourseViewController.m */; };
+		9AEB4CC01B72583300CDA7C6 /* AZCourseInfoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AEB4CBF1B72583300CDA7C6 /* AZCourseInfoCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,20 +57,65 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		653169901B97BDAF0018E6D4 /* courses1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = courses1.png; sourceTree = "<group>"; };
+		653169911B97BDB00018E6D4 /* courses2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = courses2.png; sourceTree = "<group>"; };
+		653169921B97BDB00018E6D4 /* user-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user-1.png"; sourceTree = "<group>"; };
+		653169931B97BDB00018E6D4 /* user-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user-2.png"; sourceTree = "<group>"; };
+		653169981B97C3760018E6D4 /* AZTeachersController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZTeachersController.h; sourceTree = "<group>"; };
+		653169991B97C3760018E6D4 /* AZTeachersController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZTeachersController.m; sourceTree = "<group>"; };
+		9A178CA81B9BB0D3003B4BE9 /* AZParentDataViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZParentDataViewController.h; sourceTree = "<group>"; };
+		9A178CA91B9BB0D3003B4BE9 /* AZParentDataViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZParentDataViewController.m; sourceTree = "<group>"; };
+		9A3C03E41B74F9AA008DE1E6 /* AZStudentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZStudentsViewController.h; sourceTree = "<group>"; };
+		9A3C03E51B74F9AA008DE1E6 /* AZStudentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZStudentsViewController.m; sourceTree = "<group>"; };
+		9AA7DC241B9A283F0027BB2E /* AZTeachDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZTeachDetailViewController.h; sourceTree = "<group>"; };
+		9AA7DC251B9A283F0027BB2E /* AZTeachDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZTeachDetailViewController.m; sourceTree = "<group>"; };
+		9AA7DC271B9A30AE0027BB2E /* AZTeacherViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZTeacherViewCell.h; sourceTree = "<group>"; };
+		9AA7DC281B9A30AE0027BB2E /* AZTeacherViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZTeacherViewCell.m; sourceTree = "<group>"; };
+		9AB038581B6E386B00CC7651 /* age.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = age.png; path = images/age.png; sourceTree = "<group>"; };
+		9AB038591B6E386B00CC7651 /* globe_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = globe_yellow.png; path = images/globe_yellow.png; sourceTree = "<group>"; };
+		9AB0385A1B6E386B00CC7651 /* lock_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lock_yellow.png; path = images/lock_yellow.png; sourceTree = "<group>"; };
+		9AB0385B1B6E386B00CC7651 /* login.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = login.png; path = images/login.png; sourceTree = "<group>"; };
+		9AB0385C1B6E386B00CC7651 /* mail_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mail_yellow.png; path = images/mail_yellow.png; sourceTree = "<group>"; };
+		9AB0385D1B6E386B00CC7651 /* secName.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = secName.png; path = images/secName.png; sourceTree = "<group>"; };
+		9AB0385E1B6E386B00CC7651 /* telephone_yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = telephone_yellow.png; path = images/telephone_yellow.png; sourceTree = "<group>"; };
+		9AB0385F1B6E386B00CC7651 /* User.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = User.png; path = images/User.png; sourceTree = "<group>"; };
+		9AB038601B6E386B00CC7651 /* yellow_lock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = yellow_lock.png; path = images/yellow_lock.png; sourceTree = "<group>"; };
 		9AC2A9E31B6CDD89009E626F /* 44_CoreData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 44_CoreData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC2A9E71B6CDD89009E626F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9AC2A9E81B6CDD89009E626F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9AC2A9EA1B6CDD89009E626F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		9AC2A9EB1B6CDD89009E626F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		9AC2A9EE1B6CDD89009E626F /* _4_CoreData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = _4_CoreData.xcdatamodel; sourceTree = "<group>"; };
-		9AC2A9F01B6CDD89009E626F /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		9AC2A9F11B6CDD89009E626F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		9AC2A9F41B6CDD89009E626F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9AC2A9F61B6CDD89009E626F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		9AC2A9F91B6CDD89009E626F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		9AC2A9FF1B6CDD89009E626F /* 44_CoreDataTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 44_CoreDataTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AC2AA041B6CDD89009E626F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9AC2AA051B6CDD89009E626F /* _4_CoreDataTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _4_CoreDataTests.m; sourceTree = "<group>"; };
+		9AC2AA0F1B6CDEB7009E626F /* AZDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZDataManager.h; sourceTree = "<group>"; };
+		9AC2AA101B6CDEB7009E626F /* AZDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZDataManager.m; sourceTree = "<group>"; };
+		9AC2AA131B6CEBFB009E626F /* AZStudentTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZStudentTableViewController.h; sourceTree = "<group>"; };
+		9AC2AA141B6CEBFB009E626F /* AZStudentTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZStudentTableViewController.m; sourceTree = "<group>"; };
+		9AC2AA541B6D393B009E626F /* AZDetailTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZDetailTableViewController.h; sourceTree = "<group>"; };
+		9AC2AA551B6D393B009E626F /* AZDetailTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZDetailTableViewController.m; sourceTree = "<group>"; };
+		9AC2AA571B6D8AC3009E626F /* AZLeftView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZLeftView.h; sourceTree = "<group>"; };
+		9AC2AA581B6D8AC3009E626F /* AZLeftView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZLeftView.m; sourceTree = "<group>"; };
+		9AC2AA701B6D9090009E626F /* AZTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZTableViewCell.h; sourceTree = "<group>"; };
+		9AC2AA711B6D9090009E626F /* AZTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZTableViewCell.m; sourceTree = "<group>"; };
+		9AE9F2571B739B8A005D004C /* AZTeacherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZTeacherViewController.h; sourceTree = "<group>"; };
+		9AE9F2581B739B8A005D004C /* AZTeacherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZTeacherViewController.m; sourceTree = "<group>"; };
+		9AEB4CAF1B7235F600CDA7C6 /* AZCoursesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZCoursesViewController.h; sourceTree = "<group>"; };
+		9AEB4CB01B7235F600CDA7C6 /* AZCoursesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZCoursesViewController.m; sourceTree = "<group>"; };
+		9AEB4CB21B723B3F00CDA7C6 /* AZStudent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZStudent.h; sourceTree = "<group>"; };
+		9AEB4CB31B723B3F00CDA7C6 /* AZStudent.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZStudent.m; sourceTree = "<group>"; };
+		9AEB4CB51B723B4000CDA7C6 /* AZTeacher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZTeacher.h; sourceTree = "<group>"; };
+		9AEB4CB61B723B4000CDA7C6 /* AZTeacher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZTeacher.m; sourceTree = "<group>"; };
+		9AEB4CB81B723B4000CDA7C6 /* AZCourses.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZCourses.h; sourceTree = "<group>"; };
+		9AEB4CB91B723B4000CDA7C6 /* AZCourses.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZCourses.m; sourceTree = "<group>"; };
+		9AEB4CBB1B72507100CDA7C6 /* AZInfoCourseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZInfoCourseViewController.h; sourceTree = "<group>"; };
+		9AEB4CBC1B72507100CDA7C6 /* AZInfoCourseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZInfoCourseViewController.m; sourceTree = "<group>"; };
+		9AEB4CBE1B72583300CDA7C6 /* AZCourseInfoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AZCourseInfoCell.h; sourceTree = "<group>"; };
+		9AEB4CBF1B72583300CDA7C6 /* AZCourseInfoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AZCourseInfoCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +136,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6531698E1B97989F0018E6D4 /* teacher */ = {
+			isa = PBXGroup;
+			children = (
+				653169981B97C3760018E6D4 /* AZTeachersController.h */,
+				653169991B97C3760018E6D4 /* AZTeachersController.m */,
+				9AA7DC241B9A283F0027BB2E /* AZTeachDetailViewController.h */,
+				9AA7DC251B9A283F0027BB2E /* AZTeachDetailViewController.m */,
+			);
+			name = teacher;
+			sourceTree = "<group>";
+		};
+		6531698F1B97BDAF0018E6D4 /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				653169901B97BDAF0018E6D4 /* courses1.png */,
+				653169911B97BDB00018E6D4 /* courses2.png */,
+				653169921B97BDB00018E6D4 /* user-1.png */,
+				653169931B97BDB00018E6D4 /* user-2.png */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
+		9A178CA71B9BAE83003B4BE9 /* customCell */ = {
+			isa = PBXGroup;
+			children = (
+				9AEB4CBE1B72583300CDA7C6 /* AZCourseInfoCell.h */,
+				9AEB4CBF1B72583300CDA7C6 /* AZCourseInfoCell.m */,
+				9AC2AA701B6D9090009E626F /* AZTableViewCell.h */,
+				9AC2AA711B6D9090009E626F /* AZTableViewCell.m */,
+				9AA7DC271B9A30AE0027BB2E /* AZTeacherViewCell.h */,
+				9AA7DC281B9A30AE0027BB2E /* AZTeacherViewCell.m */,
+			);
+			name = customCell;
+			sourceTree = "<group>";
+		};
+		9AB038571B6E37FF00CC7651 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				9AB038581B6E386B00CC7651 /* age.png */,
+				9AB038591B6E386B00CC7651 /* globe_yellow.png */,
+				9AB0385A1B6E386B00CC7651 /* lock_yellow.png */,
+				9AB0385B1B6E386B00CC7651 /* login.png */,
+				9AB0385C1B6E386B00CC7651 /* mail_yellow.png */,
+				9AB0385D1B6E386B00CC7651 /* secName.png */,
+				9AB0385E1B6E386B00CC7651 /* telephone_yellow.png */,
+				9AB0385F1B6E386B00CC7651 /* User.png */,
+				9AB038601B6E386B00CC7651 /* yellow_lock.png */,
+				6531698F1B97BDAF0018E6D4 /* icon */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		9AC2A9DA1B6CDD89009E626F = {
 			isa = PBXGroup;
 			children = (
@@ -83,10 +209,13 @@
 		9AC2A9E51B6CDD89009E626F /* 44_CoreData */ = {
 			isa = PBXGroup;
 			children = (
+				9AC2AA0F1B6CDEB7009E626F /* AZDataManager.h */,
+				9AC2AA101B6CDEB7009E626F /* AZDataManager.m */,
 				9AC2A9EA1B6CDD89009E626F /* AppDelegate.h */,
 				9AC2A9EB1B6CDD89009E626F /* AppDelegate.m */,
-				9AC2A9F01B6CDD89009E626F /* ViewController.h */,
-				9AC2A9F11B6CDD89009E626F /* ViewController.m */,
+				9AC2AA1A1B6CED0E009E626F /* dataModels */,
+				9A178CA71B9BAE83003B4BE9 /* customCell */,
+				9AC2AA121B6CE87C009E626F /* controllers */,
 				9AC2A9F31B6CDD89009E626F /* Main.storyboard */,
 				9AC2A9F61B6CDD89009E626F /* Images.xcassets */,
 				9AC2A9F81B6CDD89009E626F /* LaunchScreen.xib */,
@@ -120,6 +249,60 @@
 				9AC2AA041B6CDD89009E626F /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9AC2AA121B6CE87C009E626F /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+				9A178CA81B9BB0D3003B4BE9 /* AZParentDataViewController.h */,
+				9A178CA91B9BB0D3003B4BE9 /* AZParentDataViewController.m */,
+				9AEB4CAE1B7235B800CDA7C6 /* courses */,
+				6531698E1B97989F0018E6D4 /* teacher */,
+				9AC2AA531B6D3902009E626F /* student */,
+			);
+			name = controllers;
+			sourceTree = "<group>";
+		};
+		9AC2AA1A1B6CED0E009E626F /* dataModels */ = {
+			isa = PBXGroup;
+			children = (
+				9AEB4CB81B723B4000CDA7C6 /* AZCourses.h */,
+				9AEB4CB91B723B4000CDA7C6 /* AZCourses.m */,
+				9AEB4CB51B723B4000CDA7C6 /* AZTeacher.h */,
+				9AEB4CB61B723B4000CDA7C6 /* AZTeacher.m */,
+				9AEB4CB21B723B3F00CDA7C6 /* AZStudent.h */,
+				9AEB4CB31B723B3F00CDA7C6 /* AZStudent.m */,
+			);
+			name = dataModels;
+			sourceTree = "<group>";
+		};
+		9AC2AA531B6D3902009E626F /* student */ = {
+			isa = PBXGroup;
+			children = (
+				9AC2AA571B6D8AC3009E626F /* AZLeftView.h */,
+				9AC2AA581B6D8AC3009E626F /* AZLeftView.m */,
+				9AC2AA541B6D393B009E626F /* AZDetailTableViewController.h */,
+				9AC2AA551B6D393B009E626F /* AZDetailTableViewController.m */,
+				9AC2AA131B6CEBFB009E626F /* AZStudentTableViewController.h */,
+				9AC2AA141B6CEBFB009E626F /* AZStudentTableViewController.m */,
+				9AB038571B6E37FF00CC7651 /* images */,
+			);
+			name = student;
+			sourceTree = "<group>";
+		};
+		9AEB4CAE1B7235B800CDA7C6 /* courses */ = {
+			isa = PBXGroup;
+			children = (
+				9AEB4CAF1B7235F600CDA7C6 /* AZCoursesViewController.h */,
+				9AEB4CB01B7235F600CDA7C6 /* AZCoursesViewController.m */,
+				9AEB4CBB1B72507100CDA7C6 /* AZInfoCourseViewController.h */,
+				9AEB4CBC1B72507100CDA7C6 /* AZInfoCourseViewController.m */,
+				9AE9F2571B739B8A005D004C /* AZTeacherViewController.h */,
+				9AE9F2581B739B8A005D004C /* AZTeacherViewController.m */,
+				9A3C03E41B74F9AA008DE1E6 /* AZStudentsViewController.h */,
+				9A3C03E51B74F9AA008DE1E6 /* AZStudentsViewController.m */,
+			);
+			name = courses;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -202,9 +385,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				653169941B97BDB00018E6D4 /* courses1.png in Resources */,
+				9AB038651B6E386B00CC7651 /* mail_yellow.png in Resources */,
+				9AB038631B6E386B00CC7651 /* lock_yellow.png in Resources */,
+				9AB038621B6E386B00CC7651 /* globe_yellow.png in Resources */,
 				9AC2A9F51B6CDD89009E626F /* Main.storyboard in Resources */,
+				653169961B97BDB00018E6D4 /* user-1.png in Resources */,
+				9AB038671B6E386B00CC7651 /* telephone_yellow.png in Resources */,
+				9AB038681B6E386B00CC7651 /* User.png in Resources */,
 				9AC2A9FA1B6CDD89009E626F /* LaunchScreen.xib in Resources */,
 				9AC2A9F71B6CDD89009E626F /* Images.xcassets in Resources */,
+				9AB038611B6E386B00CC7651 /* age.png in Resources */,
+				653169971B97BDB00018E6D4 /* user-2.png in Resources */,
+				9AB038641B6E386B00CC7651 /* login.png in Resources */,
+				653169951B97BDB00018E6D4 /* courses2.png in Resources */,
+				9AB038691B6E386B00CC7651 /* yellow_lock.png in Resources */,
+				9AB038661B6E386B00CC7651 /* secName.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,10 +418,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9AEB4CBA1B723B4000CDA7C6 /* AZCourses.m in Sources */,
+				9A3C03E61B74F9AA008DE1E6 /* AZStudentsViewController.m in Sources */,
+				9AC2AA721B6D9090009E626F /* AZTableViewCell.m in Sources */,
+				9AEB4CB11B7235F600CDA7C6 /* AZCoursesViewController.m in Sources */,
 				9AC2A9EF1B6CDD89009E626F /* _4_CoreData.xcdatamodeld in Sources */,
 				9AC2A9EC1B6CDD89009E626F /* AppDelegate.m in Sources */,
-				9AC2A9F21B6CDD89009E626F /* ViewController.m in Sources */,
+				9AC2AA151B6CEBFB009E626F /* AZStudentTableViewController.m in Sources */,
+				9AEB4CB71B723B4000CDA7C6 /* AZTeacher.m in Sources */,
+				9AA7DC291B9A30AE0027BB2E /* AZTeacherViewCell.m in Sources */,
+				9AEB4CB41B723B3F00CDA7C6 /* AZStudent.m in Sources */,
+				9AC2AA591B6D8AC3009E626F /* AZLeftView.m in Sources */,
+				9AE9F2591B739B8A005D004C /* AZTeacherViewController.m in Sources */,
+				9AC2AA561B6D393B009E626F /* AZDetailTableViewController.m in Sources */,
 				9AC2A9E91B6CDD89009E626F /* main.m in Sources */,
+				9AA7DC261B9A283F0027BB2E /* AZTeachDetailViewController.m in Sources */,
+				9AEB4CC01B72583300CDA7C6 /* AZCourseInfoCell.m in Sources */,
+				9AEB4CBD1B72507100CDA7C6 /* AZInfoCourseViewController.m in Sources */,
+				9A178CAA1B9BB0D3003B4BE9 /* AZParentDataViewController.m in Sources */,
+				9AC2AA111B6CDEB7009E626F /* AZDataManager.m in Sources */,
+				6531699A1B97C3760018E6D4 /* AZTeachersController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -352,6 +564,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = 44_CoreData/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -362,6 +575,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = 44_CoreData/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -420,6 +634,7 @@
 				9AC2AA0B1B6CDD89009E626F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9AC2AA0C1B6CDD89009E626F /* Build configuration list for PBXNativeTarget "44_CoreDataTests" */ = {
 			isa = XCConfigurationList;
@@ -428,6 +643,7 @@
 				9AC2AA0E1B6CDD89009E626F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
